@@ -1,0 +1,12 @@
+{
+    "components": [
+        {
+            "type": "Rigidbody",
+            "mass": 1.0
+        },
+        {
+            "type": "BoxCollider",
+            "size": {"x": 2, "y": 2, "z": 2}
+        }
+    ]
+}
