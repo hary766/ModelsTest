@@ -1,0 +1,11 @@
+Model Information:
+* title:	furniture for real-time visualization engine
+* source:	https://sketchfab.com/3d-models/furniture-for-real-time-visualization-engine-e33151b1f3704a25a920a6b3c2fc456e
+* author:	Anton (https://sketchfab.com/toxid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "furniture for real-time visualization engine" (https://sketchfab.com/3d-models/furniture-for-real-time-visualization-engine-e33151b1f3704a25a920a6b3c2fc456e) by Anton (https://sketchfab.com/toxid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
