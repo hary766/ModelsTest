@@ -62170,10 +62170,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Material_0_baseColor.png"
+      "uri": "Material_0_baseColor.png"
     },
     {
-      "uri": "textures/Material_0_metallicRoughness.png"
+      "uri": "Material_0_metallicRoughness.png"
     }
   ],
   "materials": [
