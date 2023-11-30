@@ -3,177 +3,729 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 4388,
+      "count": 438,
       "max": [
-        39.95798873901367,
-        77.75019836425781,
-        40.79796600341797
+        14.177492141723633,
+        35.10673904418945,
+        -7.130919933319092
       ],
       "min": [
-        -45.966163635253906,
-        -56.745887756347656,
-        -47.846195220947266
+        -14.40135669708252,
+        3.4930179119110107,
+        -15.958415985107422
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 52656,
+      "byteOffset": 5256,
       "componentType": 5126,
-      "count": 4388,
+      "count": 438,
       "max": [
+        0.9582386016845703,
         1.0,
-        1.0,
-        0.9999979734420776
+        0.9506576061248779
       ],
       "min": [
-        -1.0,
-        -0.9999998211860657,
-        -0.9999918341636658
+        -0.7962087392807007,
+        -0.9223209023475647,
+        -0.9506627321243286
       ],
       "type": "VEC3"
     },
     {
-      "bufferView": 3,
+      "bufferView": 1,
       "componentType": 5126,
-      "count": 4388,
+      "count": 438,
       "max": [
-        1.0,
-        1.0,
-        0.9999842047691345,
-        1.0
+        0.9952989816665649,
+        0.9909785985946655
       ],
       "min": [
-        -1.0,
-        -0.9999994039535522,
-        -0.9999937415122986,
-        -1.0
+        0.02165449783205986,
+        0.5519862174987793
       ],
-      "type": "VEC4"
+      "type": "VEC2"
     },
     {
       "bufferView": 1,
+      "byteOffset": 3504,
       "componentType": 5126,
-      "count": 4388,
+      "count": 438,
       "max": [
-        0.99609375,
-        0.9667066335678101
+        0.0,
+        0.0
       ],
       "min": [
-        0.00390625,
-        0.00390625
+        0.0,
+        0.0
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 16464,
+      "count": 717,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10512,
+      "componentType": 5126,
+      "count": 21821,
+      "max": [
+        18.850412368774414,
+        38.1889762878418,
+        16.20943260192871
+      ],
+      "min": [
+        -18.888254165649414,
+        -1.7763568394002505e-15,
+        -16.799917221069336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 272364,
+      "componentType": 5126,
+      "count": 21821,
+      "max": [
+        0.9999606609344482,
+        0.9994788765907288,
+        0.9995555877685547
+      ],
+      "min": [
+        -0.9999707937240601,
+        -1.0,
+        -0.9998502135276794
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7008,
+      "componentType": 5126,
+      "count": 21821,
+      "max": [
+        16.1038818359375,
+        22.53955841064453
+      ],
+      "min": [
+        -16.100570678710938,
+        -21.329727172851563
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 181576,
+      "componentType": 5126,
+      "count": 21821,
+      "max": [
+        1.3274147510528564,
+        0.9956870079040527
+      ],
+      "min": [
+        2.522711213259754e-07,
+        0.4990273714065552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2868,
+      "componentType": 5125,
+      "count": 28332,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 534216,
+      "componentType": 5126,
+      "count": 3788,
+      "max": [
+        11.536737442016602,
+        35.17865753173828,
+        16.799917221069336
+      ],
+      "min": [
+        -14.087064743041992,
+        7.785843372344971,
+        -14.01162338256836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 579672,
+      "componentType": 5126,
+      "count": 3788,
+      "max": [
+        0.9718113541603088,
+        0.9921330809593201,
+        0.999900758266449
+      ],
+      "min": [
+        -0.9909277558326721,
+        -0.9996269941329956,
+        -0.9941310882568359
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 356144,
+      "componentType": 5126,
+      "count": 3788,
+      "max": [
+        3.553793430328369,
+        2.693162202835083
+      ],
+      "min": [
+        -3.636652946472168,
+        -2.3847174644470215
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 386448,
+      "componentType": 5126,
+      "count": 3788,
+      "max": [
+        1.4956997632980347,
+        0.9988051652908325
+      ],
+      "min": [
+        2.4241233404609375e-05,
+        0.6052260398864746
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 116196,
+      "componentType": 5125,
+      "count": 4644,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 625128,
+      "componentType": 5126,
+      "count": 1851,
+      "max": [
+        13.18466567993164,
+        35.51588439941406,
+        -10.737789154052734
+      ],
+      "min": [
+        -8.992178916931152,
+        34.411495208740234,
+        -16.3848876953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 647340,
+      "componentType": 5126,
+      "count": 1851,
+      "max": [
+        0.9996496438980103,
+        0.9561183452606201,
+        0.9984017014503479
+      ],
+      "min": [
+        -0.9996271133422852,
+        -0.9311979413032532,
+        -0.9984435439109802
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 416752,
+      "componentType": 5126,
+      "count": 1851,
+      "max": [
+        79.60122680664063,
+        68.52041625976563
+      ],
+      "min": [
+        -79.21243286132813,
+        -68.07951354980469
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 431560,
+      "componentType": 5126,
+      "count": 1851,
+      "max": [
+        0.9958227872848511,
+        0.9915975332260132
+      ],
+      "min": [
+        0.6276537775993347,
+        0.8109169602394104
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 134772,
+      "componentType": 5125,
+      "count": 3513,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 669552,
+      "componentType": 5126,
+      "count": 412,
+      "max": [
+        10.252388954162598,
+        2.1624982357025146,
+        -8.912862777709961
+      ],
+      "min": [
+        -7.191737174987793,
+        0.08658777922391891,
+        -12.770877838134766
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 674496,
+      "componentType": 5126,
+      "count": 412,
+      "max": [
+        0.9996493458747864,
+        1.0,
+        0.9996481537818909
+      ],
+      "min": [
+        -0.9996485114097595,
+        -1.0,
+        -0.9996481537818909
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 446368,
+      "componentType": 5126,
+      "count": 412,
+      "max": [
+        1.0012661218643188,
+        0.9198572635650635
+      ],
+      "min": [
+        1.4414403267437592e-05,
+        0.5000326633453369
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 449664,
+      "componentType": 5126,
+      "count": 412,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 148824,
+      "componentType": 5125,
+      "count": 948,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 679440,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        18.888254165649414,
+        36.54262924194336,
+        16.2030029296875
+      ],
+      "min": [
+        -18.785480499267578,
+        7.036324977874756,
+        -16.109861373901367
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1465824,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999927282333374,
+        1.0,
+        0.9998135566711426
+      ],
+      "min": [
+        -0.9999272227287292,
+        -1.0,
+        -0.9998135566711426
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 452960,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        15.879169464111328,
+        35.05725860595703
+      ],
+      "min": [
+        -15.880308151245117,
+        -34.532371520996094
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 977216,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.2211847305297852,
+        0.9912395477294922
+      ],
+      "min": [
+        1.9170978703186847e-05,
+        0.5908048748970032
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 152616,
+      "componentType": 5125,
+      "count": 103728,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2252208,
+      "componentType": 5126,
+      "count": 3008,
+      "max": [
+        11.56432819366455,
+        36.54262924194336,
+        -10.854471206665039
+      ],
+      "min": [
+        -9.848672866821289,
+        32.147029876708984,
+        -16.109861373901367
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2288304,
+      "componentType": 5126,
+      "count": 3008,
+      "max": [
+        0.9989418387413025,
+        0.9924735426902771,
+        0.9871575236320496
+      ],
+      "min": [
+        -0.9995324015617371,
+        -0.9796742796897888,
+        -0.9871549010276794
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1501472,
+      "componentType": 5126,
+      "count": 3008,
+      "max": [
+        11.898965835571289,
+        32.20004653930664
+      ],
+      "min": [
+        -11.89476203918457,
+        -10.67817497253418
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1525536,
+      "componentType": 5126,
+      "count": 3008,
+      "max": [
+        1.0020211935043335,
+        0.9915232062339783
+      ],
+      "min": [
+        1.809893910831306e-05,
+        0.7991629242897034
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 567528,
+      "componentType": 5125,
+      "count": 4512,
       "type": "SCALAR"
     }
   ],
   "asset": {
     "extras": {
-      "author": "artvolodskikh (https://sketchfab.com/artvolodskikh)",
+      "author": "Emagine (https://sketchfab.com/emaginevr)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/office-chair-a7fefb5dde954c84896949246dde5be6",
-      "title": "Office Chair"
+      "source": "https://sketchfab.com/3d-models/rieten-stoel-circle-chair-0f63f748ba894241a5b72033cc88203a",
+      "title": "Rieten stoel, Circle Chair"
     },
-    "generator": "Sketchfab-14.85.0",
+    "generator": "Sketchfab-13.11.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 65856,
+      "byteLength": 585576,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 35104,
-      "byteOffset": 65856,
+      "byteLength": 1549600,
+      "byteOffset": 585576,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 105312,
-      "byteOffset": 100960,
+      "byteLength": 2324400,
+      "byteOffset": 2135176,
       "byteStride": 12,
-      "name": "floatBufferViews",
-      "target": 34962
-    },
-    {
-      "buffer": 0,
-      "byteLength": 70208,
-      "byteOffset": 206272,
-      "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
     }
   ],
   "buffers": [
     {
-      "byteLength": 276480,
+      "byteLength": 4459576,
       "uri": "scene.bin"
     }
   ],
-  "extensionsUsed": [
-    "KHR_materials_specular"
-  ],
   "images": [
     {
-      "uri": "phong1_baseColor.png"
+      "uri": "Drift_Oak_baseColor.jpeg"
     },
     {
-      "uri": "phong1_metallicRoughness.png"
+      "uri": "Racquet_baseColor.jpeg"
     },
     {
-      "uri": "phong1_normal.png"
+      "uri": "HH_Earth_baseColor.jpeg"
+    },
+    {
+      "uri": "Rope_baseColor.jpeg"
     }
   ],
   "materials": [
     {
       "doubleSided": true,
-      "extensions": {
-        "KHR_materials_specular": {
-          "specularColorFactor": [
-            1.0,
-            1.0,
-            1.0
-          ],
-          "specularFactor": 1.0
-        }
-      },
-      "name": "phong1",
-      "normalTexture": {
-        "index": 2
-      },
+      "name": "1086_Circle_Chair__1",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Drift_Oak",
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 0
         },
-        "metallicRoughnessTexture": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9524317153998911
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Racquet",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
           "index": 1
-        }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "HH_Earth",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9524317153998911
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Black_Plastic",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.109804,
+          0.0941176,
+          0.0823529,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9524317153998911
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Rope",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9524317153998911
       }
     }
   ],
   "meshes": [
     {
-      "name": "officeChair_phong1_0",
+      "name": "1086_Circle_Chair__1",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 1,
             "POSITION": 0,
-            "TANGENT": 2,
-            "TEXCOORD_0": 3
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
           },
           "indices": 4,
           "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1086_Circle_Chair_Drift Oak_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1086_Circle_Chair_Racquet_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1086_Circle_Chair_HH Earth_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 17,
+            "TEXCOORD_1": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1086_Circle_Chair_Black Plastic_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22,
+            "TEXCOORD_1": 23
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1086_Circle_Chair_Rope_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 26,
+            "POSITION": 25,
+            "TEXCOORD_0": 27,
+            "TEXCOORD_1": 28
+          },
+          "indices": 29,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "1086_Circle_Chair_Rope_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30,
+            "TEXCOORD_0": 32,
+            "TEXCOORD_1": 33
+          },
+          "indices": 34,
+          "material": 5,
           "mode": 4
         }
       ]
@@ -185,17 +737,17 @@
         1
       ],
       "matrix": [
-        1.08695650100708,
+        1.0,
         0.0,
         0.0,
         0.0,
         0.0,
-        4.161487607808576e-16,
-        -1.08695650100708,
+        2.220446049250313e-16,
+        -1.0,
         0.0,
         0.0,
-        1.08695650100708,
-        4.161487607808576e-16,
+        1.0,
+        2.220446049250313e-16,
         0.0,
         0.0,
         0.0,
@@ -226,7 +778,7 @@
         0.0,
         1.0
       ],
-      "name": "105a77fc7152494dbc314d811ce451b2.fbx"
+      "name": "29fea975acec4f77a2dba7dd1b69c7ab.fbx"
     },
     {
       "children": [
@@ -236,13 +788,43 @@
     },
     {
       "children": [
-        4
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
-      "name": "officeChair"
+      "name": "1086_Circle_Chair"
     },
     {
       "mesh": 0,
-      "name": "officeChair_phong1_0"
+      "name": "1086_Circle_Chair__1"
+    },
+    {
+      "mesh": 1,
+      "name": "1086_Circle_Chair_Drift Oak_1"
+    },
+    {
+      "mesh": 2,
+      "name": "1086_Circle_Chair_Racquet_1"
+    },
+    {
+      "mesh": 3,
+      "name": "1086_Circle_Chair_HH Earth_1"
+    },
+    {
+      "mesh": 4,
+      "name": "1086_Circle_Chair_Black Plastic_0"
+    },
+    {
+      "mesh": 5,
+      "name": "1086_Circle_Chair_Rope_1"
+    },
+    {
+      "mesh": 6,
+      "name": "1086_Circle_Chair_Rope_1"
     }
   ],
   "samplers": [
@@ -274,6 +856,10 @@
     {
       "sampler": 0,
       "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
     }
   ]
 }
